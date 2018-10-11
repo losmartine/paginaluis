@@ -1,0 +1,33 @@
+body{
+	background-image:url(foto/12.jpg);
+	background-size:1500px 500px;
+	background-repeat:repeat-x;
+	margin-right: 180px;
+	margin-left: 180px;
+}
+
+section{
+	padding-top: 5px;
+	padding-left:42px;
+	padding-right:42px;
+	padding-bottom:42px;
+	border: 2px solid gray;
+}
+article {
+border-bottom: 2px solid gray;
+
+
+}
+
+h6{
+	margin: 2px;
+
+}
+h3{
+	
+	padding-right: 20px;
+	text-align: right;
+}
+td{
+	padding-right: 20px;
+}
